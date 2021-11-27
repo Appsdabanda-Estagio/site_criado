@@ -1,2 +1,3 @@
-# site_criado
-My first site built
+# Site criado com php
+
+This repository was created for a simple site creation
