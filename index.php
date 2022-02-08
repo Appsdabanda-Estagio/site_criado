@@ -28,6 +28,6 @@
     } else {
         require_once "includes/home.php";
     }
-    require_once "includes/footer.php";
+    require_once "includes/footer.php"; 
 ?>
 

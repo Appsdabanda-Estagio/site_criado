@@ -1,3 +1,4 @@
+<h2>Corpo da Página</h2>
 <?php 
-    echo "apresentando a página de Pages";
+    echo "Apresentando a página de Pages";
 ?>
